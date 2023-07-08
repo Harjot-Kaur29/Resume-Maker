@@ -1,0 +1,11 @@
+#cv-template{
+    display:none;
+}
+.profilePhoto{
+    border-radius:50%;
+    width:60%;
+    border:1px solid blue;
+}
+.background{
+    background-color:aqua;
+}
